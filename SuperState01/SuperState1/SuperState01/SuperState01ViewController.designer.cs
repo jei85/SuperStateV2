@@ -16,10 +16,32 @@ namespace SuperState01
 	{
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
+<<<<<<< HEAD
+=======
+		UILabel lbl { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UITableView tblRemoved { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+>>>>>>> 42324109af273a3c3c0d53f499f54b42db18df2f
 		UITableView tblView { get; set; }
 
 		void ReleaseDesignerOutlets ()
 		{
+<<<<<<< HEAD
+=======
+			if (lbl != null) {
+				lbl.Dispose ();
+				lbl = null;
+			}
+			if (tblRemoved != null) {
+				tblRemoved.Dispose ();
+				tblRemoved = null;
+			}
+>>>>>>> 42324109af273a3c3c0d53f499f54b42db18df2f
 			if (tblView != null) {
 				tblView.Dispose ();
 				tblView = null;

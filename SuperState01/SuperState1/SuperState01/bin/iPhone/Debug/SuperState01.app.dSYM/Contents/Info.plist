@@ -5,7 +5,11 @@
 		<key>CFBundleDevelopmentRegion</key>
 		<string>English</string>
 		<key>CFBundleIdentifier</key>
+<<<<<<< HEAD
 		<string>com.apple.xcode.dsym.SuperState01.app</string>
+=======
+		<string>com.apple.xcode.dsym.com.nuts.SuperState01</string>
+>>>>>>> 42324109af273a3c3c0d53f499f54b42db18df2f
 		<key>CFBundleInfoDictionaryVersion</key>
 		<string>6.0</string>
 		<key>CFBundlePackageType</key>
@@ -15,6 +19,10 @@
 		<key>CFBundleShortVersionString</key>
 		<string>1.0</string>
 		<key>CFBundleVersion</key>
+<<<<<<< HEAD
 		<string>1</string>
+=======
+		<string>1.0</string>
+>>>>>>> 42324109af273a3c3c0d53f499f54b42db18df2f
 	</dict>
 </plist>
